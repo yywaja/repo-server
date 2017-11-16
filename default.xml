@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest>  
+    <remote name="repo-server" fetch="git@github.com:yywaja/repo-server.git" review="git@github.com:yywaja/repo-server.git" />  
+    <default revision="master" remote="repo-server" />  
+    <project name="qualityNotification" path="E:\workspace\qualityNotification"/>  
+    <project name="UIA" path="E:\workspace\UIA"/>  
+	<project name="JunitTestEntrence" path="E:\workspace\JunitTestEntrence"/>  
+</manifest>  
